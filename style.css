@@ -1,0 +1,16 @@
+*{
+       margin: 0;
+padding: 0; }
+
+.cabeçario{background-color: #cf6505;
+       color: #093d01;
+display: flex ;
+justify-content: space-around;
+align-items: center; padding: 25px 0;}
+
+.cabeçario-imagem{ 
+       width: 5%;
+       height: 5% ;}
+.cabeçari-lista-item{display: inline-block;
+margin: 0 70px;
+font-size: 24px;}
